@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Initialize React project with Vite.md",
+                "file": "React/Component.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Initialize React project with Vite"
+              "title": "Component"
             }
           }
         ]
@@ -196,8 +196,11 @@
   },
   "active": "9e961013d94b4482",
   "lastOpenFiles": [
-    "Vite.md",
+    "React/JSX.md",
+    "React/Component.md",
     "React/Initialize React project with Vite.md",
+    "ServiceNow Platform Notes/References.md",
+    "Vite.md",
     "ServiceNow Platform Notes/Test.md",
     "React",
     "Linux/NetCat.md",
@@ -206,7 +209,6 @@
     "Linux/Enable PipeWire.md",
     "Linux/Apropos.md",
     "Linux",
-    "ServiceNow Platform Notes/References.md",
     "ServiceNow Platform Notes"
   ]
 }
