@@ -24,3 +24,11 @@ function Avatar({ person, size }) {
 // person and size are available here  
 }
 ```
+
+## Specifying a default value for a prop
+If you want to give a prop a default value to fall back on when no value is specified, you can do it with the destructuring by putting `=` and the default value right after the parameter:
+
+```
+function Avatar({ person, size = 100 }) {  // ...}
+```
+
