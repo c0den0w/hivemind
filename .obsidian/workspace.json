@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vite.md",
+                "file": "React/Initialize React project with Vite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vite"
+              "title": "Initialize React project with Vite"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "9e961013d94b4482",
   "lastOpenFiles": [
-    "React/Initialize React project with Vite.md",
     "Vite.md",
+    "React/Initialize React project with Vite.md",
     "ServiceNow Platform Notes/Test.md",
     "React",
     "Linux/NetCat.md",
