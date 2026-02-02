@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/Component.md",
+                "file": "React/JSX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Component"
+              "title": "JSX"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "9e961013d94b4482",
   "lastOpenFiles": [
-    "React/JSX.md",
     "React/Component.md",
+    "React/JSX.md",
     "React/Initialize React project with Vite.md",
     "ServiceNow Platform Notes/References.md",
     "Vite.md",

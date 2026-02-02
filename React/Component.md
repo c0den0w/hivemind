@@ -33,4 +33,4 @@ export default function Gallery() {
   );
 }
 ```
-	The export default prefix is a standard JavaScript syntax (not specific to React). 
+The export default prefix is a standard JavaScript syntax (not specific to React). This syntax is called [[JSX]], and it lets you embed markup inside JavaScript.
