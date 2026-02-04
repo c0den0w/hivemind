@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ServiceNow Platform Notes/AIOps.md",
+                "file": "ServiceNow Platform Notes/Event management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AIOps"
+              "title": "Event management"
             }
           }
         ]
@@ -196,8 +196,10 @@
   },
   "active": "549441a41fc520da",
   "lastOpenFiles": [
-    "React/Initialize React project with Vite.md",
+    "Pasted image 20260204225830.png",
     "ServiceNow Platform Notes/AIOps.md",
+    "ServiceNow Platform Notes/Event management.md",
+    "React/Initialize React project with Vite.md",
     "React/Props.md",
     "React/JSX.md",
     "Javascript/Destructuring.md",
