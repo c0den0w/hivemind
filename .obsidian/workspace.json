@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ServiceNow Platform Notes/Slow pattern tables.md",
+                "file": "Computer Science/PCI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Slow pattern tables"
+              "title": "PCI"
             }
           }
         ]
@@ -196,8 +196,17 @@
   },
   "active": "549441a41fc520da",
   "lastOpenFiles": [
-    "ServiceNow Platform Notes/MID Server.md",
+    "Untitled.md",
+    "Computer Science/PCI.md",
+    "Computer Science",
+    "Linux/lspci.md",
+    "Linux/NetCat.md",
+    "Linux/Linux variables.md",
+    "Linux/Install Debian packages.md",
+    "Linux/Enable PipeWire.md",
+    "Linux/Apropos.md",
     "ServiceNow Platform Notes/Slow pattern tables.md",
+    "ServiceNow Platform Notes/MID Server.md",
     "ServiceNow Platform Notes/MID Web Server.md",
     "ServiceNow Platform Notes/Event management.md",
     "Pasted image 20260204225830.png",
@@ -212,11 +221,6 @@
     "Vite.md",
     "ServiceNow Platform Notes/Test.md",
     "React",
-    "Linux/NetCat.md",
-    "Linux/Linux variables.md",
-    "Linux/Install Debian packages.md",
-    "Linux/Enable PipeWire.md",
-    "Linux/Apropos.md",
     "Linux",
     "ServiceNow Platform Notes"
   ]

@@ -1,0 +1,1 @@
+**Peripheral Component Interconnect ([[PCI]])** is a standardized local computer bus used to connect hardware devices to a computer's motherboard.  Developed by Intel and introduced in 1992, PCI was designed to replace slower buses like ISA and VLB, offering higher performance and a plug-and-play capability that simplified device installation.
