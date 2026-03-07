@@ -1,0 +1,3 @@
+[[useRef]] is used to hold reference to a value that is not needed for rendering.
+
+For example, when we start a timer with [[setInterval]] store the ID in a variable, we want to retain the value of ID and clear it so that the timer initiated will be cleared or else once re rendered timer is created again and the old timer is still running in the background as [[clearInterval]] will not have the correct ID value of timer.
