@@ -2,7 +2,7 @@ name - name of your project
 private - if true npm will refuse to publish it
 version - follows semver versioning format major.minor.patch
 type - module (to enable importing and exporting of files)
-scripts - use the mentioned scripts (commands) with npm run <script name>
+scripts - use the mentioned scripts (commands) with npm run  `script name`
 ```
 "scripts": {
 "dev": "vite",
@@ -12,3 +12,5 @@ scripts - use the mentioned scripts (commands) with npm run <script name>
 }
 ```
 
+dependencies - npm packages that your application solely depends on 
+devDependencies - npm packages that are required during the development of the application
