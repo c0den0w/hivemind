@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/gitignore.md",
+                "file": "React/Virtual DOM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gitignore"
+              "title": "Virtual DOM"
             }
           }
         ]
@@ -196,8 +196,12 @@
   },
   "active": "549441a41fc520da",
   "lastOpenFiles": [
-    "React/Package.json.md",
+    "React/JSX.md",
+    "React/Virtual DOM.md",
+    "React/Initialize React project with Vite.md",
+    "React/Component.md",
     "Git/gitignore.md",
+    "React/Package.json.md",
     "Vite.md",
     "React/useRef.md",
     "Pasted image 20260204225830.png",
@@ -218,14 +222,10 @@
     "ServiceNow Platform Notes/MID Web Server.md",
     "ServiceNow Platform Notes/Event management.md",
     "ServiceNow Platform Notes/AIOps.md",
-    "React/Initialize React project with Vite.md",
     "React/Props.md",
-    "React/JSX.md",
     "Javascript/Destructuring.md",
     "Javascript",
-    "React/Component.md",
     "ServiceNow Platform Notes/References.md",
-    "ServiceNow Platform Notes/Test.md",
     "React",
     "Linux",
     "ServiceNow Platform Notes"
