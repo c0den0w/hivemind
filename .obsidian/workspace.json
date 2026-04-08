@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Install Debian packages.md",
+                "file": "Interview preparation/Need to know.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Install Debian packages"
+              "title": "Need to know"
             }
           }
         ]
@@ -196,6 +196,9 @@
   },
   "active": "549441a41fc520da",
   "lastOpenFiles": [
+    "Linux/Install Debian packages.md",
+    "Interview preparation/Need to know.md",
+    "Interview preparation",
     "Linux/Apropos.md",
     "Linux/Linux variables.md",
     "Javascript/Destructuring.md",
@@ -216,7 +219,6 @@
     "Computer Science",
     "Linux/lspci.md",
     "Linux/NetCat.md",
-    "Linux/Install Debian packages.md",
     "Linux/Enable PipeWire.md",
     "ServiceNow Platform Notes/Slow pattern tables.md",
     "ServiceNow Platform Notes/MID Server.md",
@@ -225,7 +227,6 @@
     "ServiceNow Platform Notes/AIOps.md",
     "React/Props.md",
     "Javascript",
-    "ServiceNow Platform Notes/References.md",
     "React",
     "Linux",
     "ServiceNow Platform Notes"
