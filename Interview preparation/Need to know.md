@@ -3,3 +3,5 @@
 - [ ] SG Connector
 - [ ] IRE Data source rules
 - [ ] Dynamic reconciliation rules
+- [ ] Network discovery
+- [ ] Discovery configuration console
