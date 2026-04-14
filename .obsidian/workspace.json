@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview preparation/Need to know.md",
+                "file": "ServiceNow Platform Notes/References.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Need to know"
+              "title": "References"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "549441a41fc520da",
   "lastOpenFiles": [
-    "Linux/Install Debian packages.md",
     "Interview preparation/Need to know.md",
+    "Linux/Install Debian packages.md",
     "Interview preparation",
     "Linux/Apropos.md",
     "Linux/Linux variables.md",
