@@ -1,0 +1,9 @@
+- [ ] Notifications
+- [ ] REST API (Scripted, Inbound)
+- [ ] UI Actions
+- [ ] UI Macros
+- [ ] Context Menus
+- [ ] Transform
+- [ ] ServiceNow Architecture
+- [ ] Event Management
+- [ ] Service Graph
