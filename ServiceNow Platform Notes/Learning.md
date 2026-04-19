@@ -3,7 +3,7 @@
 - [ ] UI Actions
 - [ ] UI Macros
 - [ ] Context Menus
-- [ ] Transform
+- [ ] Transform scripts
 - [ ] ServiceNow Architecture
 - [ ] Event Management
 - [ ] Service Graph
