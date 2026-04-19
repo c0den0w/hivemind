@@ -7,3 +7,5 @@
 - [ ] ServiceNow Architecture
 - [ ] Event Management
 - [ ] Service Graph
+- [ ] Service portals
+
